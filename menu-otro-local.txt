@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hamburgu
+=======
+Este codigo viene desde github
+>>>>>>> 623e6b5f6b89fd63fe934bc4e7fc602f6288ba44
